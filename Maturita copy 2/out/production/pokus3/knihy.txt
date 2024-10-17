@@ -1,0 +1,81 @@
+1-1-1-Ezop-Bajky
+2-1-1-Boccaccio-Dekameron
+3-1-1-Komenský-Labyrint světa a ráj srdce
+4-1-1-Shakespeare-Hamlet
+5-1-1-Shakespeare-Romeo a Julie
+6-1-1-Shakespeare-Othello
+7-1-1-Shakespeare-Zkrocení zlé ženy
+8-1-1-Defoe-Robinson Crusoe
+9-1-1-Molière-Lakomec
+10-1-1-Molière-Tartuffe
+11-2-2-Mácha-Máj
+12-2-2-Erben-Kytice
+13-2-2-Němcová-Babička
+14-2-2-Borovský-Král Lávra
+15-2-2-Neruda-Povídky malostranské
+16-2-2-Mrštíkové-Maryša
+17-2-2-Vrchlický-Noc na Karlštejně
+18-2-2-Hugo-Chrám Matky boží v Paříži
+19-2-2-Hugo-Bídníci
+20-2-2-Dickens-Oliver Twist
+21-2-2-Balzac-Otec Goriot
+22-2-2-Maupassant-Miláček
+23-2-2-Gogol-Revizor
+24-2-2-Zola-Zabiják
+25-2-2-Puškin-Evžen Oněgin
+26-2-2-Wilde-Obraz Doriana Graye
+27-2-2-Baudelaire-Květy zla
+28-2-2-Poe-Povídky
+29-3-3-Shaw-Pygmalion
+30-3-3-Saint-Exupéry-Malý princ
+31-3-3-Steinbeck-O myších a lidech
+32-3-3-Fitzgerald-Velký Gatsby
+33-3-3-Rolland-Petr a Lucie
+34-3-3-Hemingway-Stařec a moře
+35-3-3-Hemingway-Sbohem, armádo
+36-3-3-Remarque-Na západní frontě klid
+37-3-3-Remarque-Vítězný oblouk
+38-3-3-Solženicyn-Jeden den Ivana Děnisoviče
+39-3-3-Nabokov-Lolita
+40-3-3-Orwell-1984
+41-3-3-Orwell-Farma zvířat
+42-3-3-Bradbury-451 stupňů Fahrenheita
+43-3-3-Kafka-Proměna
+44-3-3-Styron-Sophiina volba
+45-3-3-Beckett-Čekání na Godota
+46-3-3-Moravia-Horalka
+47-3-3-Kesey-Vyhoďme ho z kola ven
+48-3-3-Tolkien-Hobit aneb Cesta tam a zase zpátky
+49-3-3-Irving-Svět podle Garpa
+50-3-3-Rowlingová-Prázdné místo
+51-3-3-King-Carrie
+52-3-3-Sapkowski-Zaklínač I. Poslední přání
+53-3-4-Bezruč-Slezské písně
+54-3-4-Wolker-Těžká hodina
+55-3-4-Havel-Audience
+56-3-4-Seifert-Maminka
+57-3-4-Dyk-Krysař
+58-3-4-Čapek-Matka
+59-3-4-Čapek-Bílá nemoc
+60-3-4-Čapek-R. U. R.
+61-3-4-Čapek-Povídky z jedné kapsy
+62-3-4-Havlíček-Petrolejové lampy
+63-3-4-Hašek-Osudy dobrého vojáka Švejka za světové války
+64-3-4-Poláček-Bylo nás pět
+65-3-4-Olbracht-Nikola Šuhaj loupežník
+66-3-4-Vančura-Rozmarné léto
+67-3-4-Škvorecký-Prima sezóna
+68-3-4-Škvorecký-Tankový prapor
+69-3-4-Hrabal-Ostře sledované vlaky
+70-3-4-Hrabal-Postřižiny
+71-3-4-Hrabal-Obsluhoval jsem anglického krále
+72-3-4-Kaplický-Kladivo na čarodějnice
+73-3-4-Fuks-Spalovač mrtvol
+74-3-4-Pavel-Smrt krásných srnců
+75-3-4-Otčenášek-Romeo, Julie a tma
+76-3-4-Jirotka-Saturnin
+77-3-4-Viewegh-Báječná léta pod psa
+78-3-4-Kantůrková-Přítelkyně z domu smutku
+79-3-4-Kundera-Směšné lásky
+80-3-4-Lustig-Modlitba pro Kateřinu Horovitzovou
+81-3-4-Mornštajnová-Hana

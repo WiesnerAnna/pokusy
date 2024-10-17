@@ -1,0 +1,2 @@
+public enum YearGroup {PRED1800,PRED1900,HOMEMADE20a21,WORD20a21
+}
